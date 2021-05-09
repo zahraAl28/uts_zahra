@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MY_UTS_APP_ZAHIRA</string>
+    <string name="home">frag1</string>
+    <string name="about">frag2</string>
+    <string name="help">frag3</string>
+    <string name="exit">frag4</string>
+    <string name="fragment1">Ini Fragment 1</string>
+    <string name="fragment2">Ini Fragment 2</string>
+    <string name="fragment3">Ini Fragment 3</string>
+    <string name="fragment4">Ini Fragment 4</string>
+    <string name="launch_maps">Launch Maps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
